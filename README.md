@@ -1,4 +1,4 @@
-# NexPerkUP
+# NexPerkUP for Oman Oasis
 
 ## Download and Install
 
